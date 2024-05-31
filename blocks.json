@@ -1,0 +1,3778 @@
+[
+  {
+    "cycle": -1,
+    "level": 0,
+    "hash": "BLockGenesisGenesisGenesisGenesisGenesisf79b5d1CoW2",
+    "timestamp": "2018-06-30T16:07:32Z",
+    "proto": -1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 0,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 1,
+    "hash": "BLSqrcLvFtqVCx8WSqkVJypW2kAVRM3eEj2BHgBsB6kb24NqYev",
+    "timestamp": "2018-06-30T17:39:57Z",
+    "proto": 0,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 0,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 2,
+    "hash": "BMMmnb2LoJQs3PjvhysXAgK2pAjJE71hoqXFCs6u85xUH3KrRqa",
+    "timestamp": "2018-06-30T17:40:57Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 0,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 3,
+    "hash": "BMW8SnJ57KMcmSVimBhPhNP1YPYSGEJARoNRg3tdW1YScCMfBh6",
+    "timestamp": "2018-06-30T17:44:27Z",
+    "proto": 1,
+    "payloadRound": 2,
+    "blockRound": 2,
+    "validations": 0,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 2,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 4,
+    "hash": "BLLcTCR2UhC8eoUK5gzqJp3KsPLDNKruSFdskdvsMgSY48wFgX3",
+    "timestamp": "2018-06-30T17:45:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "producer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 5,
+    "hash": "BM2SfYjRiJ5EMd4Zv8C7ni1W6TnYh39f5cakgCavSjmjnwSFaSk",
+    "timestamp": "2018-06-30T17:46:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "producer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 6,
+    "hash": "BL2mzgAmb8XFza15bW15tPE6KDnU4nc4B5PYP4G15EvSTQJ8ffT",
+    "timestamp": "2018-06-30T17:47:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "producer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 7,
+    "hash": "BLFbq1crBoTWRa6vLSKYui5kd4TBsbDHE4Qz8DJ5EayYCiJHKu2",
+    "timestamp": "2018-06-30T17:48:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "producer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 8,
+    "hash": "BMcLeMTu3bsMuBL2W1yHNCkM2tqnmeN72RbxvZxEHbK83mggqpE",
+    "timestamp": "2018-06-30T17:49:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "producer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 9,
+    "hash": "BLuFnCYme4GPmeRJAuJ4eA6BuSNo3AzcBfoDnSvfANJUPqFx9Mk",
+    "timestamp": "2018-06-30T17:50:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 10,
+    "hash": "BLq3jarZuxz4F7pamd9xvNmrSstMqAS2JMP5SB2VMqpdWpN88eJ",
+    "timestamp": "2018-06-30T17:51:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "producer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 11,
+    "hash": "BM9TYubKzs9hciq85fBKJpjG9Ufk9e3WabvFpk5TzUwvHA1Uk2u",
+    "timestamp": "2018-06-30T17:52:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "producer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 12,
+    "hash": "BLvoNQgMZQXQCchBpXxYbg4ZbUmjsg3TxkzVD7uDZGdSEmj1FNL",
+    "timestamp": "2018-06-30T17:53:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "producer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 13,
+    "hash": "BL7qPtf6Fcem3QsMn9jf3iRXUPWhRr3w23aX4xeBCUn5XEZnxvE",
+    "timestamp": "2018-06-30T17:54:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "producer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 14,
+    "hash": "BKvHYzoV2W5nJ3JrnCFTet4fooBJNxKyn9Ct4mu4FTvyuAjfifR",
+    "timestamp": "2018-06-30T17:55:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 28,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "producer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 15,
+    "hash": "BMDLMJdvhRn7H8RSaupqWvoXXJzm8CmMAQfgMkKHdFBccumimLU",
+    "timestamp": "2018-06-30T17:56:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "producer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 16,
+    "hash": "BLYzMt8UhFJ4DzNLjA2BkzyRFvhyViaDio7JeTA2vPLLfT5SZKg",
+    "timestamp": "2018-06-30T17:57:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "producer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 17,
+    "hash": "BL5B9niXP2gnSXL8MsiQkJgUiSk3Sr5XYAPp1Wkf38HpePJ31g7",
+    "timestamp": "2018-06-30T17:58:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "producer": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 18,
+    "hash": "BKjg8yZzsxiiJNvVfrHuRjFtttUJrRzDGp9deqK6vMLzuMEQHbs",
+    "timestamp": "2018-06-30T17:59:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 19,
+    "hash": "BL6TDWdFg5Y3LTVzFkyMEpn13e81VG8M3T1367HARK1rqSxThK7",
+    "timestamp": "2018-06-30T18:00:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "producer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 20,
+    "hash": "BKy1nQDvKvic22MzCkqUNeVEENDZzkaoBkVSiK7uBeC8mwWEUNy",
+    "timestamp": "2018-06-30T18:01:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 21,
+    "hash": "BKzHjmWqi7wXqrjbKi5NVZ7UGH8hQ9mrkpaABrzSyEfquULxnan",
+    "timestamp": "2018-06-30T18:02:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "producer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 22,
+    "hash": "BMM2XoWLyzhYfXDc7p5uZ5a4n8318GoXbJiFUKejAQthjANxpm3",
+    "timestamp": "2018-06-30T18:03:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "producer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 23,
+    "hash": "BMWVEwEYw9m5iaHzqxDfkPzZTV4rhkSouRh3DkVMVGkxZ3EVaNs",
+    "timestamp": "2018-06-30T18:04:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "producer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 24,
+    "hash": "BLyAEwaXShJuZasvUezHUfLqzZ48V8XrPvXF2wRaH15tmzEpsHT",
+    "timestamp": "2018-06-30T18:05:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "producer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 25,
+    "hash": "BLk8qc7hdBRtB6cBJ2PL2UTtu1eEkaxkpVYTZz113rZEZswYU2k",
+    "timestamp": "2018-06-30T18:06:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "producer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 26,
+    "hash": "BM3YXmkqgKzWevHe28iKDN1JxXa2XV8rjUwpz7PMyrS1y5FS1NQ",
+    "timestamp": "2018-06-30T18:07:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "producer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 27,
+    "hash": "BLrX28Eay45rbaCCMuwSH8q6uPTXcB9LiMHy699NfSssbNLzxzF",
+    "timestamp": "2018-06-30T18:08:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "producer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 28,
+    "hash": "BLUHiyMJSwhVETPprN14kQcQodM5n6yJtTtyD9rTkJbAwD2UCXX",
+    "timestamp": "2018-06-30T18:09:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "producer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 29,
+    "hash": "BLmJDttDAPHdS7THb1oaRVzhakZoUJTLdxz1sq49Vw6E2vDxBpG",
+    "timestamp": "2018-06-30T18:10:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "producer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 30,
+    "hash": "BLGD9HqcQiyKa9eQ8pBuNVPR3bkc3XgaT9BgxLaeE2jdvcpCYEX",
+    "timestamp": "2018-06-30T18:11:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 31,
+    "hash": "BLmKwFTgjX9AtcGqKbpPksF9SpHQjYqhhWsF48rbmo63hNgJfaL",
+    "timestamp": "2018-06-30T18:12:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 32,
+    "hash": "BKoZmRbRzQYcHk2znNGMjjWiErj1q1d7hW4wWnoHAaZLJ3LCQ45",
+    "timestamp": "2018-06-30T18:13:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": true,
+    "proposer": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "producer": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 33,
+    "hash": "BLNATcNy6owb5bXE6VxcmAChQGT2ZNqZQeTU16PNFBJgbYLvqGH",
+    "timestamp": "2018-06-30T18:14:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 34,
+    "hash": "BM6Ftt9ugHR7NmM4BUyf8ApTqWVa2ZAPcocvrKM3QumTDyuTDQe",
+    "timestamp": "2018-06-30T18:15:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "producer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 35,
+    "hash": "BMRCQjtQSXmW7VBzmHGxYmaUXoJXXdpaqyoq3k3TUmhQUcoS1L6",
+    "timestamp": "2018-06-30T18:16:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "producer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 36,
+    "hash": "BMAVzii3wwu3mF3PFK5zfdW3Nc7AVc6SwoMjyySRNcjnPtWUSEh",
+    "timestamp": "2018-06-30T18:17:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "producer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 37,
+    "hash": "BMN3KmJHfhDpUJW5DRz1tfNoRDY9FYmQnJUKuFApfASczLmYTC2",
+    "timestamp": "2018-06-30T18:18:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 38,
+    "hash": "BLpq56Czpb8sQ39Md8YkphYubovrDeYCUD6FBxHrrK3xEm4wCdL",
+    "timestamp": "2018-06-30T18:19:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "producer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 39,
+    "hash": "BMbF4BNcXwaF8P3dgBzeF8P3D1EAGcd821zkrntPA5m551s8PBu",
+    "timestamp": "2018-06-30T18:20:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "producer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 40,
+    "hash": "BM6883wkaAGzJAbXR5rT292rH4a1bfd81sfyubuMYXrHGy8Sn41",
+    "timestamp": "2018-06-30T18:21:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "producer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 41,
+    "hash": "BKntD8bRxg6zNhuoawqaN2t7h5tAGLbJNNncR494jjXWq41pCcL",
+    "timestamp": "2018-06-30T18:22:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "producer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 42,
+    "hash": "BL5o1BnetqdSEbim8WAqP3T93rN6N14YLjSDaQGQqEFu9NJhcFi",
+    "timestamp": "2018-06-30T18:23:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "producer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 43,
+    "hash": "BM2a4Y6VAJhw94ipJM47wbcLCByAjyAZB3pspNKBYjfdCjbjR2F",
+    "timestamp": "2018-06-30T18:24:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "producer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 44,
+    "hash": "BM9X5WXa7iu6UaVRU21RaHKH3dK89ZRDMhf3TSxdja9Bjn19tnK",
+    "timestamp": "2018-06-30T18:25:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "producer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 45,
+    "hash": "BKkZKLu2bAUTZer4UCsUkEu7YEWtrTErLhaGdjwJDXv8zdSXnWi",
+    "timestamp": "2018-06-30T18:26:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "producer": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 46,
+    "hash": "BLN5iaQbWVoJuS2VAzTRPxDFkfvQ6wZwfAZdb6grgaLmzRxWhsz",
+    "timestamp": "2018-06-30T18:27:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "producer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 47,
+    "hash": "BL3H1CNBJDtaYGyNDcKyD6t2Myp4Qc4u27VY4xektTATvu4EHHL",
+    "timestamp": "2018-06-30T18:28:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 48,
+    "hash": "BMemwucFvw7SDh76vkLkDwv7yHW59oLyUJfGgToBtPd5daDGxvk",
+    "timestamp": "2018-06-30T18:29:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "producer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 49,
+    "hash": "BMdwjLoVmaMHuLTRss5M6osbggUQPffwdKYhDWTGkbmDausr9q2",
+    "timestamp": "2018-06-30T18:30:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 50,
+    "hash": "BKwNBM7yrZcZ3L6bCsTbEsQ93gMABd78YjNtutS28LwNuLjP4z9",
+    "timestamp": "2018-06-30T18:31:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "producer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 51,
+    "hash": "BKy2mgnjGr6NZ2ihFiB4w52bU5Ts2GsRxtRwHHFQrvb7L2o2meu",
+    "timestamp": "2018-06-30T18:32:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "producer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 52,
+    "hash": "BM4rDjGLWPHgAfWQ1amv6kLPXo9kuAx1L8LiP6cowEBuyTDYt4Q",
+    "timestamp": "2018-06-30T18:33:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 53,
+    "hash": "BM9bThkJ7pF7PXQikdx8Mt66iBcQxLmpjp11BrhV5pF7pqo1NLM",
+    "timestamp": "2018-06-30T18:34:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "producer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 54,
+    "hash": "BM3UwsS7xBVomqczsqzbn1RgJEN4jepgFHGMk4P1DgRwmuNGmQh",
+    "timestamp": "2018-06-30T18:35:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 55,
+    "hash": "BLuNZuczbdWjVPZ2STGuzRRf6Fi2grmkXjSeCi5d2w765ZJRDY9",
+    "timestamp": "2018-06-30T18:36:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 56,
+    "hash": "BLG4WgdjoZ8pQNA6jeM2ntfqBxUNEuuNTN9cpFcANoWkp6UrtNw",
+    "timestamp": "2018-06-30T18:37:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 57,
+    "hash": "BLKgxb2JHvLBEVhK1oMpiZexojUaLHVAW2dCcLhKRwtVgTAUrmz",
+    "timestamp": "2018-06-30T18:38:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "producer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 58,
+    "hash": "BM3EmQKyoTzvsKLCuKXwMQV28u3NpALzNkfSiDo97ykkP5v2TLa",
+    "timestamp": "2018-06-30T18:39:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "producer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 59,
+    "hash": "BLzBtQy8mMuPfoovLR9sdcRsXS6monrx7VzPTtUgFBcE8fumFHd",
+    "timestamp": "2018-06-30T18:40:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 27,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 60,
+    "hash": "BMZxF6SgVoh4ZgTxTLaCh7qkeaPRwvhw8rmUmgQ4EgAXjRcKWdk",
+    "timestamp": "2018-06-30T18:41:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 61,
+    "hash": "BMNB5aVsvD2TJN1S75xudMpv2aQuCtaVtaUFF8WpgPbCtTwbwHn",
+    "timestamp": "2018-06-30T18:42:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 62,
+    "hash": "BLrPjmgh95fpzmHa28BxVqmAvR9Qq6dGmJhPTY5g7xG5fd2vpnB",
+    "timestamp": "2018-06-30T18:43:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "producer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 63,
+    "hash": "BLWdHSpgsmBLxJ3fbdBe6eZcqMya7MRUWViHTKMBtRNXwr6a1uP",
+    "timestamp": "2018-06-30T18:44:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "producer": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 64,
+    "hash": "BLkfkS4H7EkQxwYVbokrmLBFbEGdRCm9h9P8hmYe7PkswGtyRpo",
+    "timestamp": "2018-06-30T18:45:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": true,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 65,
+    "hash": "BKurCn9kQymC4SiZpHUmWsM7RXziPUejhSf8UmkTJR5nHKYVUzz",
+    "timestamp": "2018-06-30T18:46:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 66,
+    "hash": "BKrKMicVC5fjH1c2R3ed5DaA2kH8tW7beX74qE6wx9upxxqTS9u",
+    "timestamp": "2018-06-30T18:47:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "producer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 67,
+    "hash": "BMSwVppP6xjNStTVYHWHzFT78FiYPdyaZjXjpCYRrLuNVMcB4sB",
+    "timestamp": "2018-06-30T18:48:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 68,
+    "hash": "BMQmARTDepGjv51a1T8cssGc6tgLazo1KvkqBvmGoA87kkPp9QW",
+    "timestamp": "2018-06-30T18:49:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 69,
+    "hash": "BLcWweLzoQ6JoFGP2kU18LsrTr9BrB6Djfayesb1mSSsYVtjrk5",
+    "timestamp": "2018-06-30T18:50:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "producer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 70,
+    "hash": "BMWepwgT8iLScQVyHo2VCuFi3Ej3CXB7pdNTdVgZN6EqWtUrdr7",
+    "timestamp": "2018-06-30T18:51:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 71,
+    "hash": "BLy3fNVKAW4JT2pS95SNNpQfyFST6RnaGYcTgKPTBmtjeaaeQMK",
+    "timestamp": "2018-06-30T18:52:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "producer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 72,
+    "hash": "BKoir5aHSu5dnr6QNkc9wdpJmSPZ1S87WD6bGWqzczQsySAS4xJ",
+    "timestamp": "2018-06-30T18:53:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "producer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 73,
+    "hash": "BLTBpyD2BeKddgTXBC1VNSFJ6ScuSLSjRxkvboUXnd7pGg2vHr6",
+    "timestamp": "2018-06-30T18:54:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 74,
+    "hash": "BKms1uMShXGGiEFuu9wRgzDsdMMbTgu5BxtMMPDocyJS3KLWYCM",
+    "timestamp": "2018-06-30T18:55:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "producer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 75,
+    "hash": "BLFz6mD6XRwsQ63UmPP8psgmFoud1eedvTAYdoCscbGJB7x6bBu",
+    "timestamp": "2018-06-30T18:56:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "producer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 76,
+    "hash": "BMJHsnjs5na2rC2TLzDGEYKaeMYNmFccYfyNNoUpFnTJkhv2DNe",
+    "timestamp": "2018-06-30T18:57:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 27,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 77,
+    "hash": "BM3ZfmwxqJZJxHkZF1kvySSxDLjks7fu5rn2y22ujTkorNF7Jb9",
+    "timestamp": "2018-06-30T18:58:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "producer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 78,
+    "hash": "BLd3u9SeM4SwXEFYvdJEHSie2FSJsVGSnuspYHcL6b35wTP749P",
+    "timestamp": "2018-06-30T18:59:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "producer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 79,
+    "hash": "BMe3u9s9G4rssyhpbN6a1ThRfmBHaUvyFnH98hYX2jJGLvATDG6",
+    "timestamp": "2018-06-30T19:00:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 80,
+    "hash": "BLgLRpikpeoS3LTQsBNVh85n2Wyw6eCeUG5T8g3t9GFz25HvXhG",
+    "timestamp": "2018-06-30T19:01:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "producer": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 81,
+    "hash": "BLagvGo3xsAY9QLPCMs9JgF9yk66bk7TJzyAVwcyr4M2f8uTdoH",
+    "timestamp": "2018-06-30T19:02:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "producer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 82,
+    "hash": "BLmv398qUPU7WaJDuCZt6yaQcoFurBNWPAN77c7tgxBEjWhbKca",
+    "timestamp": "2018-06-30T19:03:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "producer": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 5 legacy",
+      "address": "tz3NExpXn9aPNZPorRE4SdjJ2RGrfbJgMAaV"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 83,
+    "hash": "BLpx5DWwkbT1okM1ZLgVbfBDCidSkohatRZzwC4j9RxkrbUwyii",
+    "timestamp": "2018-06-30T19:04:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 84,
+    "hash": "BMRunKXEP7JnuspmuiJmHUdQ9NhgDCz6N53SQWoDRuejhGAnutK",
+    "timestamp": "2018-06-30T19:05:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 85,
+    "hash": "BM2BT46mEgsd8h88isi3G5GEg3j8BN5sJQ8c9mCbdvjbCdwjuhY",
+    "timestamp": "2018-06-30T19:06:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "producer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 86,
+    "hash": "BLiJdxN7xq39JsARzCA2FsC4ynW9uH2kmcZUuMgft6yRfbnp9kY",
+    "timestamp": "2018-06-30T19:07:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "producer": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 2 legacy",
+      "address": "tz3bvNMQ95vfAYtG8193ymshqjSvmxiCUuR5"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 87,
+    "hash": "BMUL1GtnDikWfKHLdNaL5LDn4Bi7k8YpyWiatvFUvxdrb9HxPWg",
+    "timestamp": "2018-06-30T19:08:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 88,
+    "hash": "BLymwifRUmcfDTUV54E3yqD2sZXWuowojSeKe2qUTfdnZzJJEwX",
+    "timestamp": "2018-06-30T19:09:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 89,
+    "hash": "BMJ71YiRssxngf7k3QsxhJZnfKXPgfwSEzikB2onkV4rt637WMg",
+    "timestamp": "2018-06-30T19:10:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "producer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 90,
+    "hash": "BLdgq2VSkAWTjmA5nRe6RsHEL5iU19cJyoyh1LDPUG9VLKFu9Xg",
+    "timestamp": "2018-06-30T19:11:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "producer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 91,
+    "hash": "BLZ4qvdFFenBKFm2GPJyPgTzyL1QeQt7h66FmUpprAA2AoxP8zb",
+    "timestamp": "2018-06-30T19:12:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "producer": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 8 legacy",
+      "address": "tz3VEZ4k6a4Wx42iyev6i2aVAptTRLEAivNN"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 92,
+    "hash": "BLLpxCPwx2CrqyUPJMGE2jbisw3jT2CbKATuza4jSipygYSaxAx",
+    "timestamp": "2018-06-30T19:13:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "producer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 93,
+    "hash": "BMeTyEZChUcsAEU3N8DckHs3LyW3fgCmHQap6s8JEX8YdA224iF",
+    "timestamp": "2018-06-30T19:14:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "producer": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 94,
+    "hash": "BLWQTPHahRG4M41pFjBGCfqo1cDUBBUkBTqgLgwz5FRPvFycimv",
+    "timestamp": "2018-06-30T19:15:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "producer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 95,
+    "hash": "BMMXEKfFkY6CTiA1SahNZW1Myrufua2KUvQySMTfz8nHg9XuvW6",
+    "timestamp": "2018-06-30T19:16:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "producer": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 7 legacy",
+      "address": "tz3WMqdzXqRWXwyvj5Hp2H7QEepaUuS7vd9K"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 96,
+    "hash": "BLcenMV1hPjTxjN395eeepeuaSXBb3kTSQHrZwprxFaKj1GXDq7",
+    "timestamp": "2018-06-30T19:17:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": true,
+    "proposer": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "producer": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 4 legacy",
+      "address": "tz3bTdwZinP8U1JmSweNzVKhmwafqWmFWRfk"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 97,
+    "hash": "BMVJsBpTccv9So6RQuvSan7EuknMr9YqpUKtVypNMPmH5MP2Ckt",
+    "timestamp": "2018-06-30T19:18:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "producer": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation Baker 1 legacy",
+      "address": "tz3RDC3Jdn4j15J7bBHZd29EUee9gVB1CxD9"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 98,
+    "hash": "BLwdUyQxk64wNcDRsnDnpD796hj5CswyFC5w9rd57kGMduMtn5i",
+    "timestamp": "2018-06-30T19:19:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "producer": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 3 legacy",
+      "address": "tz3RB4aoyjov4KEVRbuhvQ1CKJgBJMWhaeB8"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  },
+  {
+    "cycle": 0,
+    "level": 99,
+    "hash": "BL8rD6AoChiT2DcBWirsByGtcHuG6znq63ZqVQfdX3pPwRL8nSy",
+    "timestamp": "2018-06-30T19:20:27Z",
+    "proto": 1,
+    "payloadRound": 0,
+    "blockRound": 0,
+    "validations": 32,
+    "deposit": 0,
+    "rewardLiquid": 0,
+    "rewardStakedOwn": 0,
+    "rewardStakedShared": 0,
+    "bonusLiquid": 0,
+    "bonusStakedOwn": 0,
+    "bonusStakedShared": 0,
+    "fees": 0,
+    "nonceRevealed": false,
+    "proposer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "producer": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbToggleEma": 0,
+    "aiToggleEma": 0,
+    "reward": 0,
+    "bonus": 0,
+    "priority": 0,
+    "baker": {
+      "alias": "Foundation baker 6 legacy",
+      "address": "tz3UoffC7FG7zfpmvmjUmUeAaHvzdcUvAj6r"
+    },
+    "lbEscapeVote": false,
+    "lbEscapeEma": 0
+  }
+]
