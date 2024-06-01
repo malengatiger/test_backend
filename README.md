@@ -1,5 +1,5 @@
 
-# Busha Assessment Backend App
+# Busha Assessment App - Backend
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
@@ -7,6 +7,7 @@
 
 
 ## Description
+
 
 This repository contains the Busha Assessment App backend. The associated Flutter consumes the API that this application provides. It has been built with **NodeJS**, **NestJS**, **Typescript** and **Firebase** for authentication and database.
 
