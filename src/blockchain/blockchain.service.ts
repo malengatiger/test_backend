@@ -19,10 +19,6 @@ export class BlockchainService {
     const response = await this.get(path);
     return response;
   }
-  async getTezosBlocks(): Promise<any> {
-    const response = await this.get(tezosUrl);
-    return response;
-  }
 
   private async get(url: string): Promise<any> {
     // console.log(`Send a GET request ... url: ${url}`);

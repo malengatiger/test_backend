@@ -57,7 +57,7 @@ export class OnBoardingService {
 
   async deleteUser(email: string): Promise<any> {
     const response = await getAuth().deleteUser(email);
-    console.log(`User deleted: ${response}`);
+    console.log(`${mm} User deleted: ${response}`);
     return response;
   }
 }

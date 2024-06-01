@@ -14,8 +14,4 @@ export class BlockchainController {
   async getBlockTransactions(@Query('hash') hash: string) {
     return this.blockchainService.getBlockTransactions(hash);
   }
-  @Get('/getTezosBlocks')
-  async getTezosBlocks() {
-    return this.blockchainService.getTezosBlocks();
-  }
 }

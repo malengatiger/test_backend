@@ -33,7 +33,7 @@ export class TezosService {
   }
   async getBlock(timestamp: string): Promise<any> {
     const url = `${this.mainnetUrl}blocks/${timestamp}`;
-    console.log(`${mm} getBlock url: 🍎 ${url}`);
+    console.log(`${mm} .... getBlock url: 🍎 ${url}`);
     try {
       const mResponse = await fetch(url);
       const mJson = await mResponse.json();
