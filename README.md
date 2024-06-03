@@ -3,7 +3,7 @@
 
 
 <p align="right">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="64" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="48" alt="Nest Logo" /></a>
 </p>
 
 
