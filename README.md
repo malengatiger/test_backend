@@ -1,5 +1,6 @@
 
-# Busha Assessment App - Backend
+# ![busha_logo_small](https://github.com/malengatiger/test_backend/assets/343710/e96d9d0f-fc21-49f2-a2b8-868b235cb129)
+Busha Assessment App - Backend
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="80" alt="Nest Logo" /></a>
@@ -8,8 +9,7 @@
 
 ## Description
 
-This repository contains the ![busha_logo_small](https://github.com/malengatiger/test_backend/assets/343710/6a9a8688-50fd-4a46-8432-5d9b1dc86441)
-Busha Assessment App backend. The associated Flutter consumes the API that this application provides. It has been built with **NodeJS**, **NestJS**, **Typescript** and **Firebase** for authentication and database.
+This repository contains the Busha Assessment App backend. The associated Flutter consumes the API that this application provides. It has been built with **NodeJS**, **NestJS**, **Typescript** and **Firebase** for authentication and database.
 
 The application is hosted on **Google Cloud Platform (GCP)** using Docker containers in Cloud Run.
 
