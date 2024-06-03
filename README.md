@@ -31,6 +31,9 @@ The associated **Flutter** app can be found here: https://github.com/malengatige
 
 <img width="1643" alt="Screenshot 2024-06-03 at 08 00 28" src="https://github.com/malengatiger/test_backend/assets/343710/4413caec-12fa-4e73-b528-ad5950ea0dfc">
 
+<img width="1667" alt="Screenshot 2024-06-03 at 08 16 50" src="https://github.com/malengatiger/test_backend/assets/343710/8ff77793-3785-4e57-a11e-69d9bc9a5560">
+
+
 
 ## Backend Logs
 
