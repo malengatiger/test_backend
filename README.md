@@ -26,6 +26,11 @@ The associated **Flutter** app can be found here: https://github.com/malengatige
 
 <img width="1192" alt="Screenshot 2024-06-01 at 05 25 48" src="https://github.com/malengatiger/test_backend/assets/343710/282a53b8-0f83-48e6-96b8-ede34e2b6a8a">
 
+## Firebase Authentication
+
+<img width="1643" alt="Screenshot 2024-06-03 at 08 00 28" src="https://github.com/malengatiger/test_backend/assets/343710/4413caec-12fa-4e73-b528-ad5950ea0dfc">
+
+
 ## Backend Logs
 
 <img width="1185" alt="Screenshot 2024-06-01 at 05 27 14" src="https://github.com/malengatiger/test_backend/assets/343710/fe441d0c-a47a-4415-a292-8ff4e50c3e0c">
