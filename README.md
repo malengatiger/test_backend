@@ -23,7 +23,7 @@ The associated **Flutter** app can be found here: https://github.com/malengatige
 
 ## Deployed Service on Cloud Run - 
 
-**busha-nest-1** NodeJS Docker container on Cloud Run
+**busha-nest-1** =====> NodeJS Docker container on Cloud Run
 
 <img width="1192" alt="Screenshot 2024-06-01 at 05 25 48" src="https://github.com/malengatiger/test_backend/assets/343710/282a53b8-0f83-48e6-96b8-ede34e2b6a8a">
 
