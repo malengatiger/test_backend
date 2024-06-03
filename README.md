@@ -9,7 +9,7 @@
 
 ## Description
 
-This repository contains the Busha Assessment App backend. The associated Flutter app consumes the API that this application provides. It has been built with **NodeJS**, **NestJS**, **Typescript** and **Firebase** for authentication and database.
+This repository contains the Busha Assessment App backend. The associated Flutter app consumes the API that this application provides. The backend application was built with **NodeJS**, **NestJS**, **Typescript** and **Firebase** for authentication and database.
 
 The application is hosted on my account at **Google Cloud Platform (GCP)** using a **Docker** container running in a **Cloud Run** service.
 
