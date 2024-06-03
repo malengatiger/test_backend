@@ -1,6 +1,6 @@
 
-# ![busha_logo_small](https://github.com/malengatiger/test_backend/assets/343710/e96d9d0f-fc21-49f2-a2b8-868b235cb129)
-Busha Assessment App - Backend
+# ![busha_logo_small](https://github.com/malengatiger/test_backend/assets/343710/e96d9d0f-fc21-49f2-a2b8-868b235cb129) Busha Assessment App - Backend
+
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="80" alt="Nest Logo" /></a>
