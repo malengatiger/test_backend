@@ -18,15 +18,17 @@ The associated **Flutter** app can be found here: https://github.com/malengatige
 
 ## Backend API's
 
-<img width="1603" alt="Screenshot 2024-06-05 at 05 12 08" src="https://github.com/malengatiger/test_backend/assets/343710/3a23ec60-23e4-42e2-bbf1-3e22b0325d27">
-
-<img width="923" alt="Screenshot 2024-06-01 at 05 27 53" src="https://github.com/malengatiger/test_backend/assets/343710/710c5fb6-5592-4532-90f9-a1962fc34c8b">
-
 ## Deployed Service on Cloud Run - 
 
 **busha-nest-1** =====> NodeJS Docker container on Cloud Run
 
 <img width="1192" alt="Screenshot 2024-06-01 at 05 25 48" src="https://github.com/malengatiger/test_backend/assets/343710/282a53b8-0f83-48e6-96b8-ede34e2b6a8a">
+
+<img width="1603" alt="Screenshot 2024-06-05 at 05 12 08" src="https://github.com/malengatiger/test_backend/assets/343710/3a23ec60-23e4-42e2-bbf1-3e22b0325d27">
+
+<img width="923" alt="Screenshot 2024-06-01 at 05 27 53" src="https://github.com/malengatiger/test_backend/assets/343710/710c5fb6-5592-4532-90f9-a1962fc34c8b">
+
+
 
 ## Firebase Authentication
 
