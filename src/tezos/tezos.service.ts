@@ -56,7 +56,9 @@ export class TezosService {
       const mJson = await mResponse.json();
       //   console.log(`${mm} Response from Tezos getAccounts:${mJson}`);
       return mJson;
-    } catch (error) {}
+    } catch (error) {
+      throw new Error(`getAccountOperations error: ${error}`);
+    }
   }
   async getAccountContracts(address: string): Promise<any> {
     const url = `${this.mainnetUrl}accounts/${address}/contracts`;
@@ -81,7 +83,7 @@ export class TezosService {
   }
   async getBlock(timestamp: string): Promise<any> {
     const url = `${this.mainnetUrl}blocks/${timestamp}`;
-    console.log(`${mm} .... getBlock url: 🍎 ${url}`);
+    // console.log(`${mm} .... getBlock url: 🍎 ${url}`);
     try {
       const mResponse = await fetch(url);
       const mJson = await mResponse.json();

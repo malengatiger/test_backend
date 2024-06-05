@@ -2,6 +2,7 @@ import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 import { App, initializeApp } from 'firebase-admin/app';
 import { getAuth } from 'firebase-admin/auth';
+import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
 
 const mm = '🔷 Busha NestJS Backend 🔷';
 async function bootstrap() {
@@ -11,6 +12,19 @@ async function bootstrap() {
   app.enableCors();
   //
   const port = process.env.PORT || 3000;
+  const config = new DocumentBuilder()
+    .setTitle('Busha Dev Assessment Backend')
+    .setDescription('Busha NestJS is a Dev Assessment Backend App')
+    .setVersion('1.0')
+    .addTag('busha')
+    .build();
+  //
+  const document = SwaggerModule.createDocument(app, config);
+  SwaggerModule.setup('api', app, document);
+  console.log(
+    `${mm} SwaggerModule constructed 🍎 ${JSON.stringify(document)}  🍎`,
+  );
+  //
   await app.listen(port);
   console.log(`${mm} App listening on port 🍎 ${port} 🍎`);
 

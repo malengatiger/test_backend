@@ -1,11 +1,15 @@
 import { Controller, Get, Query } from '@nestjs/common';
 import { TezosService } from './tezos.service';
+import { ApiConsumes, ApiProduces } from '@nestjs/swagger';
 
 @Controller('tezos')
 export class TezosController {
   constructor(private readonly tezosService: TezosService) {}
 
   @Get('getAccounts')
+  @ApiConsumes('balanceParam')
+  @ApiConsumes('limit')
+  @ApiProduces('application/json')
   async getAccounts(
     @Query('balanceParam') balanceParam: number,
     @Query('limit') limit: number,
